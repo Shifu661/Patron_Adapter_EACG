@@ -1,1 +1,0 @@
-# Patron_Adapter_EACG
